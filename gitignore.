@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+memory.json
+offset.txt
+generated-image.jpg
+.venv/
+venv/
